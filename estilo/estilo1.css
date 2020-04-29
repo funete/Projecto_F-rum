@@ -1,0 +1,63 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.corpo_forum{
+	margin: 20px auto auto auto;
+	padding: 10px;
+	width: 1200px;
+	font: 11px tahoma;
+	background-color: rgb(220,220,220);
+	border: 1px solid black;
+	border-radius: 10px;
+
+}
+.rodape{
+	margin: 3px auto auto auto;
+	padding: 20px;
+	width: 1200px;
+	text-align: center;
+	border-radius: 10px;
+	font: 0,7em tahoma;
+	color: white;
+	background-color: black;
+}
+.logo{
+	width: 300px;
+	height: 60px;
+}
+.form_login, .novo_formulario{
+	width: 400px;
+	border: 1px solid black;
+	margin: 20px auto auto auto;
+	padding: 20px;
+	text-align: left;
+}
+
+input[type="submit"]{
+	width: 120px;
+	padding: 5px;
+	border-radius: 8px;
+}
+.aviso{
+	width: 434px;
+	color: red;
+	margin: 20px auto auto auto;
+	text-align: center;
+	font:18px tahoma;
+	border: 1px solid rgb(170,170,170);
+	padding: 5px;
+}
+.novo{
+	border: 2px solid rgb(190.190,190);
+	width: 300px;
+	background-color: rgb(200,200,200);
+	padding: 20px;
+	text-align: center;
+	margin: 30px auto 30px auto;
+	font: 14px tahoma;
+	border-radius: 8px;
+
+
+
+}
